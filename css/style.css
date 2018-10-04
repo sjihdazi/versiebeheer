@@ -1,3 +1,20 @@
+header
+{
+	height: 100px;
+	width: 700px;
+	background-color: silver;
+	border: 2px solid black;
+	border-radius: 10px;
+}
+
+h1
+{
+	color: yellow;
+	font-family: arial;
+	font-size: 30px;
+	align: justify;
+}
+
 body
 {
 	background: url(../img/background.jpg);
@@ -35,7 +52,7 @@ body
 
 .container
 {
-	
+
 	height: 600px;
 	width:	700px;
 	background-color: white;
